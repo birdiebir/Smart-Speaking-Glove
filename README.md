@@ -31,12 +31,12 @@ This project integrates hardware and software seamlessly to enable real-time ges
 
 ## 🖥️ Software Integration  
 
-### Arduino Code  
+### Arduino Code: **FSR_Python.ino**  
 - Reads input from FSRs.  
 - Maps gestures to characters.  
 - Sends accumulated words to the Python program via serial communication.  
 
-### Python Code  
+### Python Code: **text_to_voice.py**  
 - Decodes incoming serial data.  
 - Converts text to speech using the **pyttsx3** library.  
 - Provides error handling for robust performance.  
@@ -60,8 +60,8 @@ This project integrates hardware and software seamlessly to enable real-time ges
 
 ### Installation  
 1. **Set up the hardware**: Connect the FSRs to the ESP32 as per the pin mapping in the Arduino code.  
-2. **Upload Arduino code**: Use the Arduino IDE to upload the provided code to the ESP32.  
-3. **Run the Python script**: Install the required Python dependencies and execute the script to enable gesture-to-speech conversion.  
+2. **Upload Arduino code**: Use the Arduino IDE to upload the **FSR_Python.ino** code to the ESP32.  
+3. **Run the Python script**: Install the required Python dependencies and execute the **text_to_voice.py** script to enable gesture-to-speech conversion.  
 
 ---
 
