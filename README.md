@@ -1,4 +1,4 @@
-Smart Speaking Glove: Bridging the Communication Gap
+**Smart Speaking Glove: Bridging the Communication Gap*
 
 🚀 Project Overview
 The Smart Speaking Glove is an innovative assistive technology designed to empower individuals with speech and hearing impairments. By leveraging an ESP32 microcontroller and Finger Resistor Sensors (FSRs) placed on each finger, this glove translates simple gestures into spoken words. It provides a novel and intuitive way to communicate without requiring prior knowledge of sign language.
