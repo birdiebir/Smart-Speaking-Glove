@@ -65,18 +65,14 @@ This project integrates hardware and software seamlessly to enable real-time ges
 
 ---
 
+## 📝 See Detailed Project Report  
+For a comprehensive overview of the **Smart Speaking Glove** project, including design decisions, challenges, and implementation details, visit the detailed project report on Behance:  
+[Smart Speaking Glove - Detailed Project Report](https://www.behance.net/gallery/200491767/Smart-Speaking-Glove)  
+
+---
+
 ## 🤝 Contribution  
-Contributions are welcome! Feel free to fork this repository and submit pull requests for enhancements, bug fixes, or new features.  
-
----
-
-## 📜 License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
-
----
-
-## 🧑‍💻 Author  
-**Bodi Mao**  
+Contributions are welcome! Feel free to fork this repository and submit pull requests for enhancements, bug fixes, or new features.   
 
 ---
 
